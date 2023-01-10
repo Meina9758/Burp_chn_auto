@@ -1,0 +1,1 @@
+"./java11/bin/java.exe" -Dfile.encoding=utf-8 -javaagent:BurpSuiteLoader_v2022.8.2.jar -noverify -javaagent:BurpSuiteChs.jar -jar burpsuite_pro_v2022.8.2.jar
